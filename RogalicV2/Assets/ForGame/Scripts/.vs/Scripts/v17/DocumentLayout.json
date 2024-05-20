@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\OnClickButtonSc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnClickButtonSc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\CameraScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CameraScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\AdminScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdminScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\MulatedBat\\DieEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MulatedBat\\DieEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnClickButtonSc.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\OnClickButtonSc.cs",
+              "RelativeDocumentMoniker": "OnClickButtonSc.cs",
+              "ToolTip": "E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\OnClickButtonSc.cs",
+              "RelativeToolTip": "OnClickButtonSc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:16:12.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminScript.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\AdminScript.cs",
+              "RelativeDocumentMoniker": "AdminScript.cs",
+              "ToolTip": "E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\AdminScript.cs",
+              "RelativeToolTip": "AdminScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:16:06.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Player\\PlayerController.cs",
+              "ToolTip": "E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Player\\PlayerController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:15:58.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DieEnemy.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\MulatedBat\\DieEnemy.cs",
+              "RelativeDocumentMoniker": "MulatedBat\\DieEnemy.cs",
+              "ToolTip": "E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\MulatedBat\\DieEnemy.cs",
+              "RelativeToolTip": "MulatedBat\\DieEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:15:49.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraScript.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\CameraScript.cs",
+              "RelativeDocumentMoniker": "CameraScript.cs",
+              "ToolTip": "E:\\Unity\\Projects\\2D Projects\\RogalicV2\\Assets\\ForGame\\Scripts\\CameraScript.cs",
+              "RelativeToolTip": "CameraScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:14:09.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
